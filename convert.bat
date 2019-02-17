@@ -1,0 +1,1 @@
+C:\Python27\Lib\site-packages\PyQt4\pyuic4.bat create_dialog_1.ui -o create_dialog_1.py
